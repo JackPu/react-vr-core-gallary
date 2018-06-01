@@ -8,7 +8,7 @@ A Gallary Web APP via  [React-360](https://facebook.github.io/react-360/docs/set
 + PWA
 + Open API
 
-### How to use
+## How to use
 
 ``` bash
 git clone https://github.com/JackPu/react-vr-core-gallary.git
@@ -19,5 +19,9 @@ $ npm install && npm run start
 ```
 
 Then open the url: http://localhost:8081/vr/
+
+
+## API
+
 
 
